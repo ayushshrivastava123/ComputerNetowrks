@@ -16,5 +16,5 @@ And the IP address was 10.0.0.171:portNumber.
 
 portNumber = 7000 that I used.
 
-So, open the browser and provide: 10.0.0.171/HelloWorld.html
+So, open the browser and provide: 10.0.0.171:7000/HelloWorld.html
 
