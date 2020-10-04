@@ -21,7 +21,7 @@ while True:
         filename = message.split()[1]
         f = open(filename[1:])
 
-        print ("File name is: "), filename
+        print ("File name is: ", filename)
         
         outputdata = f.read()#Fill in start #Fill in end
         #Send one HTTP header line into socket
