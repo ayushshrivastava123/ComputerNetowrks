@@ -10,3 +10,11 @@ server code. In the above example, we have used the port number 6789. The browse
 the contents of HelloWorld.html. If you omit ":6789", the browser will assume port 80 and you will get
 the web page from the server only if your server is listening at port 80.
 Then try to get a file that is not present at the server. You should get a “404 Not Found” message
+
+The html file I have added here is HelloWorld.
+And the IP address was 10.0.0.171:portNumber.
+
+portNumber = 7000 that I used.
+
+So, open the browser and provide: 10.0.0.171/HelloWorld.html
+
