@@ -1,4 +1,4 @@
-# CMPE-148 Lab 2
+# Lab 2
 
 Put an HTML file (e.g., HelloWorld.html) in the same directory that the server is in. Run the server
 program. Determine the IP address of the host that is running the server (e.g., 128.238.251.26). From
